@@ -4,4 +4,4 @@ acme:
 dns:
   provider: ""  # "cloudflare" once a Cloudflare zone is used for baseDomain
 traefik:
-  sourceRanges: [18.136.78.130/32, 54.169.211.248/32]
+  sourceRanges: [18.136.78.130/32, 54.169.211.248/32, 116.100.45.201/32]  # edge, dev box, owner laptop
