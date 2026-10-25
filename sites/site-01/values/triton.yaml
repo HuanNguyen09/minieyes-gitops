@@ -1,2 +1,10 @@
 model:
   image: 370267611220.dkr.ecr.ap-southeast-1.amazonaws.com/minieyes/model-yolov8n:a9a69908c0cec5e47375b1c10605b43b0fe40339
+
+resources:
+  requests:
+    cpu: 200m
+    memory: 1Gi
+  limits:
+    cpu: 200m
+    memory: 2Gi
