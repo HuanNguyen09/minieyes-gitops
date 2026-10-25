@@ -1,0 +1,7 @@
+baseDomain: pending.sslip.io
+acme:
+  email: huannguyen.09.pt@gmail.com
+dns:
+  provider: ""  # "cloudflare" once a Cloudflare zone is used for baseDomain
+traefik:
+  sourceRanges: [18.136.78.130/32, 54.169.211.248/32]
