@@ -10,7 +10,7 @@ spec:
   project: default
   sources:
     - repoURL: https://github.com/HuanNguyen09/minieyes.git
-      targetRevision: b9a7949c75842db20259e2d69ed1612e610fe997
+      targetRevision: 14a820968e4a3c507d67310ee29fde9cb2a577a4
       path: charts/platform
       helm:
         valueFiles: [$values/clusters/cloud/values/platform.yaml]
