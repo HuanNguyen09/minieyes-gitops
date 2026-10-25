@@ -15,13 +15,13 @@ spec:
           - $app/observability/alloy/values.yaml
           - $values/sites/site-01/values/alloy.yaml
     - repoURL: https://github.com/HuanNguyen09/minieyes.git
-      targetRevision: 814bbe89b8eaab3f19dcaf7d468e730222898aee
+      targetRevision: 203a9c638b4c7d274034bab43aa1043246a63953
       ref: app
     - repoURL: https://github.com/HuanNguyen09/minieyes-gitops.git
       targetRevision: main
       ref: values
     - repoURL: https://github.com/HuanNguyen09/minieyes.git
-      targetRevision: 814bbe89b8eaab3f19dcaf7d468e730222898aee
+      targetRevision: 203a9c638b4c7d274034bab43aa1043246a63953
       path: observability/alloy
   destination:
     server: https://kubernetes.default.svc
