@@ -1,4 +1,4 @@
-baseDomain: pending.sslip.io
+baseDomain: 13-229-14-139.sslip.io
 acme:
   email: huannguyen.09.pt@gmail.com
 dns:

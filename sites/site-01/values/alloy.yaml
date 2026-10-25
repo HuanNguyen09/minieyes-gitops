@@ -4,7 +4,7 @@ alloy:
     - name: MINIEYES_SITE
       value: site-01
     - name: MINIEYES_BASE_DOMAIN
-      value: pending.sslip.io
+      value: 13-229-14-139.sslip.io
     - name: MINIEYES_PUSH_USER
       valueFrom:
         secretKeyRef:
