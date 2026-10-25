@@ -1,7 +1,7 @@
 site: site-01
 image:
   repository: 370267611220.dkr.ecr.ap-southeast-1.amazonaws.com/minieyes/detector
-  tag: deadbeefdeadbeefdeadbeefdeadbeefdeadbeef
+  tag: b9a7949c75842db20259e2d69ed1612e610fe997
 eventApi:
   url: https://events.13-229-14-139.sslip.io
 cameras:
