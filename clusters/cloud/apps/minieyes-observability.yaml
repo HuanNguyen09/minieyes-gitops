@@ -8,7 +8,7 @@ spec:
   project: default
   sources:
     - repoURL: https://github.com/HuanNguyen09/minieyes.git
-      targetRevision: 203a9c638b4c7d274034bab43aa1043246a63953
+      targetRevision: f9fbc5978177e02d6fac7299643b464a51e7a1b6
       path: observability
   destination:
     server: https://kubernetes.default.svc
