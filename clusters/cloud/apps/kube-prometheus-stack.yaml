@@ -15,7 +15,7 @@ spec:
       helm:
         valueFiles: [$app/observability/kube-prometheus-stack/values.yaml]
     - repoURL: https://github.com/HuanNguyen09/minieyes.git
-      targetRevision: 860f4ba78fe09cad547c75c80b11389204a350f1
+      targetRevision: 0feadeb2e6123cc2d8146c87e637187bb0f8c42d
       ref: app
   destination:
     server: https://kubernetes.default.svc
